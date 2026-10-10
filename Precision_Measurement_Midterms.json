@@ -26,6 +26,123 @@
 "eE": "This process is called Measurement (측정). Inspection involves determining pass/fail compliance against standard product specifications.",
 "eK": "제품의 치수를 숫자로 나타내는 행위는 '측정'입니다. 검사는 합격/불합격 여부를 판정하는 행위입니다."
 }
+],
+"Lesson 3": [
+{
+"qE": "Quality control refers to measuring, feeding back, comparing with standards, reviewing, and correcting within a production system.",
+"qK": "생산 시스템 내에서 측정, 피드 백, 표준과의 비교, 검토 및 수정을 하는 것을 품질관리라 한다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 0,
+"eE": "Quality Control (QC) is the process of effectively managing quality characteristics through continuous measurement, comparison, and feedback.",
+"eK": "품질특성을 효과적으로 관리하는 전반적인 피드백 과정을 품질관리라 합니다."
+},
+{
+"qE": "All planned and systematic activities necessary to provide appropriate confidence that a product or service satisfies specified requirements are called Quality Assurance (QA).",
+"qK": "제품이나 서비스가 주어진 요구를 만족시키고 있다는 것에 대해서 적절한 확신을 주기 위해 필요한 모든 계획적이고 조직적인 활동을 품질보증이라 한다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 0,
+"eE": "This is the standard ANSI definition for Quality Assurance.",
+"eK": "품질보증(QA)의 표준 정의입니다."
+}
+]
+},
+"Week 2": {
+"Lesson 1": [
+{
+"qE": "A cubit refers to the length from an adult's elbow to the tip of the hand/fingers.",
+"qK": "큐빗(cubit)은 성인의 팔꿈치에서 손가락 끝까지의 길이를 의미한다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 0,
+"eE": "Historically, a cubit is defined as the distance from the elbow to the tip of the middle finger.",
+"eK": "역사적으로 큐빗은 팔꿈치에서 가운데 손가락 끝까지의 신체 거리로 정의됩니다."
+}
+],
+"Lesson 2": [
+{
+"qE": "Traditional terms like 'Hanjum' (handful), 'Handan' (bundle), 'Hanjim' (load), and 'Hanmeok' are units of area.",
+"qK": "한줌, 한단, 한짐, 한먹은 면적단위이다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 1,
+"eE": "These are traditional Korean units used for quantifying volume, mass, or grouped physical amounts, not area.",
+"eK": "한줌, 한단 등은 부피나 묶음의 수량을 나타내는 전통 단위이며, 면적 단위가 아닙니다."
+}
+],
+"Lesson 3": [
+{
+"qE": "In the yard-pound system, the base unit of length is the meter (m).",
+"qK": "야드파운드법(yard-pound법)에서 길이 단위는 미터(m)이다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 1,
+"eE": "In the yard-pound system, the base unit of length is the yard (yd).",
+"eK": "야드파운드법에서 길이의 기본 단위는 야드(yd)입니다."
+}
+]
+},
+"Week 3": {
+"Lesson 1": [
+{
+"qE": "The national standard device for the field of length utilizes an iodine-stabilized helium-neon laser.",
+"qK": "길이 분야의 국가표준기는 요오드 안정화 헬륨-네온 레이저를 사용한다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 0,
+"eE": "The modern primary standard for length is realized using the precise wavelength of an iodine-stabilized He-Ne laser.",
+"eK": "길이의 국가원기는 요오드 안정화 헬륨-네온 레이저의 파장을 사용합니다."
+}
+],
+"Lesson 2": [
+{
+"qE": "In decimal multiples, 10^6 is represented by the prefix Kilo (k).",
+"qK": "십진 배량에서 10^6은 킬로(k)이다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 1,
+"eE": "10^6 is Mega (M). Kilo (k) represents 10^3.",
+"eK": "10^6은 메가(M)입니다. 킬로(k)는 10^3을 의미합니다."
+}
+],
+"Lesson 3": [
+{
+"qE": "When expressing a quantity magnitude and a unit symbol, a single space must be left between them.",
+"qK": "양의 크기와 단위기호를 나타낼 때, 그 사이를 한 칸 띄운다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 0,
+"eE": "Standard ISO rules require a space between numerical values and units (e.g., 35 mm, 50 kg).",
+"eK": "수치와 단위 기호 사이는 한 칸 띄어 쓰는 것이 원칙입니다 (예: 35 mm, 50 kg)."
+},
+{
+"qE": "The product of two or more combined units is written by attaching the unit symbols directly without separation.",
+"qK": "둘 이상의 단위가 곱해진 유도단위는 단위 기호를 띄어쓰기 없이 직접 붙여서 쓴다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 1,
+"eE": "Combined unit products must be separated by a space or a middle dot (e.g., N m or N·m).",
+"eK": "단위의 곱은 한 칸을 띄우거나 가운뎃점을 사용하여 표시해야 합니다 (예: N m 또는 N·m)."
+}
 ]
 },
 "Week 4": {
@@ -40,6 +157,43 @@
 "a": 1,
 "eE": "Measurement Error = Measured Value - True Value (or Measured Value = True Value + Error).",
 "eK": "측정오차 = 측정값 - 참값 입니다 (측정값 = 참값 + 오차)."
+},
+{
+"qE": "Among the causes of measurement error, linear thermal expansion is classified as a physical problem.",
+"qK": "오차의 유발요인 중 선팽창의 문제는 물리학적 문제이다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 0,
+"eE": "Physical error sources include linear thermal expansion, optical parallax, and hysteresis.",
+"eK": "물리학적 문제에는 선팽창, 광학적 시차, 히스테리시스가 포함됩니다."
+}
+],
+"Lesson 2": [
+{
+"qE": "The measuring instrument that does NOT satisfy Abbe's principle is the outside micrometer.",
+"qK": "아베의 원리를 만족하지 않는 측정기는 외경 마이크로미터이다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 1,
+"eE": "An outside micrometer does satisfy Abbe's principle because the scale is in line with the measuring axis (Vernier calipers violate it).",
+"eK": "외경 마이크로미터는 아베의 원리를 만족하는 대표적인 측정기입니다 (버니어 캘리퍼스는 위반함)."
+}
+],
+"Lesson 3": [
+{
+"qE": "This formula (δ = 3.8 √(P² / D)) represents the elastic deformation amount between a sphere and two flat surfaces.",
+"qK": "이 공식(δ = 3.8 √(P² / D))은 구와 두 평면 사이의 탄성 변형량을 나타낸다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 0,
+"eE": "Hertzian contact theory defines deformation between a spherical workpiece and two parallel flat anvils using this equation.",
+"eK": "헤르츠(Hertz) 접촉 이론에 의해 구와 두 평면 사이의 탄성 변형량을 구하는 공식이 맞습니다."
 }
 ]
 },
@@ -56,6 +210,43 @@
 "eE": "When the average of measured values is close to the true value, Accuracy (정확도) is high. Precision refers to repeatability/clustering among values.",
 "eK": "측정값의 평균이 참값에 가까운 것은 '정확도(Accuracy)'가 높은 것입니다. 정밀도(Precision)는 측정값들 간의 모임/산포 정도를 의미합니다."
 }
+],
+"Lesson 2": [
+{
+"qE": "This formula (x̄ = ∑ x_i / n) is used to calculate the arithmetic mean.",
+"qK": "이 공식(x̄ = ∑ x_i / n)은 산술평균을 계산하는 데 사용된다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 0,
+"eE": "The arithmetic mean is the sum of all observed values divided by sample size n.",
+"eK": "산술평균은 모든 측정값의 합을 데이터 개수 n으로 나눈 값입니다."
+},
+{
+"qE": "Precision is high when the average of measured values is close to the true value.",
+"qK": "측정값의 평균이 참값에 가까울 때 정밀도가 높다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 1,
+"eE": "When the average of measured values is close to the true value, Accuracy (정확도) is high.",
+"eK": "평균이 참값에 가까운 것은 정확도(Accuracy)입니다."
+}
+],
+"Lesson 3": [
+{
+"qE": "This formula represents the mean of a normal distribution.",
+"qK": "이 공식은 정규분포의 평균을 나타낸다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 1,
+"eE": "The formula shown in the lecture slide represents the Standard Deviation (표준편차) for a normal distribution, not the mean.",
+"eK": "해당 슬라이드의 공식은 정규분포의 '표준편차' 공식입니다."
+}
 ]
 },
 "Week 6": {
@@ -71,6 +262,32 @@
 "eE": "Measurement uncertainty is the estimated parameter surrounding the measurement result within which the True Value (참값) is expected to lie.",
 "eK": "측정불확도는 측정 결과에 부속되어 '참값'이 존재할 수 있는 범위를 나타내는 파라미터입니다."
 }
+],
+"Lesson 2": [
+{
+"qE": "This formula (s(x) = √[ ∑ (x_i - x̄)² / (n - 1) ]) is the standard deviation formula for n observed values.",
+"qK": "이 공식(s(x) = √[ ∑ (x_i - x̄)² / (n - 1) ])은 n개 측정값의 표준편차 공식이다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 0,
+"eE": "This equation calculates the experimental (sample) standard deviation.",
+"eK": "n개의 측정 데이터에 대한 실험 표준편차(표본 표준편차) 공식이 맞습니다."
+}
+],
+"Lesson 3": [
+{
+"qE": "Traceability means that a measuring instrument is calibrated in sequence by higher-level standards, establishing a clear pathway connected to national standards.",
+"qK": "소급성이란 측정기가 상위 표준에 의해 순차적으로 교정되어 국가표준과 연결되는 명확한 경로가 확립되어 있는 것을 말한다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 0,
+"eE": "This is the standard ISO/IEC definition of Measurement Traceability (소급성).",
+"eK": "끊어지지 않는 교정의 사슬을 통해 국가표준/국제표준에 연결되는 측정 소급성(Traceability)의 정의입니다."
+}
 ]
 },
 "Week 7": {
@@ -85,6 +302,69 @@
 "a": 1,
 "eE": "This method is called the Deflection Method (편위법). The zero/null method balances physical forces until the indicator reads zero.",
 "eK": "지침의 변위를 직접 읽는 방식은 '편위법'입니다. 영위법은 평형을 이루어 0이 되도록 만드는 방식입니다."
+}
+],
+"Lesson 2": [
+{
+"qE": "Under Korean Standards (KS), gauge block precision is categorized into 5 grades: Grade 00, Grade 0, Grade 1, Grade 2, and Grade 3.",
+"qK": "KS 규격에서 게이지블록의 정밀도는 00급, 0급, 1급, 2급, 3급의 5개 등급으로 분류된다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 1,
+"eE": "Under KS standards, gauge block precision is categorized into 4 grades: Grade 00, Grade 0, Grade 1, and Grade 2 (Grade 3 does not exist).",
+"eK": "KS 규격에서 게이지블록은 00급, 0급, 1급, 2급의 '4개 등급'으로 분류됩니다 (3급은 없음)."
+},
+{
+"qE": "Gauge blocks are used as practical reference standards for length in factory manufacturing environments.",
+"qK": "게이지 블록은 공장 등 실무 현장에서 길이의 기준으로 사용된다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 0,
+"eE": "Gauge blocks serve as shop-floor end standards for calibrating tools and verifying dimensions.",
+"eK": "게이지 블록은 산업 현장에서 길이의 실무 기준기로 사용됩니다."
+}
+],
+"Lesson 3": [
+{
+"qE": "Forced wringing (강압밀착) refers to a state where, when surface flatness is exceptionally good, adherence occurs naturally without applying special pressure.",
+"qK": "강압밀착이란 표면 평면도가 매우 양호할 때 특별한 힘을 가하지 않아도 자연스럽게 밀착되는 상태를 말한다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 1,
+"eE": "Forced wringing involves applying a light manual force to bring surfaces into contact; natural adherence without force is spontaneous wringing.",
+"eK": "힘을 가하지 않고 자연스럽게 붙는 것은 자발적 밀착이며, 강압밀착은 가벼운 힘/압력을 가하여 밀착시키는 방식입니다."
+}
+]
+},
+"Week 8": {
+"Midterm Review": [
+{
+"qE": "Doryanghyeong (度量衡) refers to length, volume, weight, the tools used to measure them, or their system of units.",
+"qK": "도량형(度量衡)은 길이, 부피, 무게 또는 이를 재는 기구나 그 단위법을 이르는 말이다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 0,
+"eE": "'Do' = length (ruler), 'Ryang' = volume (measuring cup), and 'Hyeong' = weight (scale).",
+"eK": "도(길이/자), 량(부피/되), 형(무게/저울)의 종합 단위계 정의입니다."
+},
+{
+"qE": "The metric system is a traditional weights and measures system introduced from ancient China that has been used historically in Korea and Japan.",
+"qK": "미터법은 고대 중국에서 전래되어 한국 · 일본 등에서 옛날부터 사용해왔던 도량형 단위계이다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 1,
+"eE": "The ancient system introduced from China is the Chukwan-bop (척관법), not the metric system.",
+"eK": "고대 중국에서 전래된 전통 단위계는 척관법입니다. 미터법은 서양에서 도입되었습니다."
 }
 ]
 }
