@@ -3,15 +3,26 @@
 "Week 1": {
 "Lesson 1": [
 {
-"qE": "In the traditional Korean weights and measures system (Doryanghyeong), "Hyeong" (衡) represents volume and measuring cups (de).",
+"qE": "In the traditional Korean weights and measures system (Doryanghyeong), 'Hyeong' (衡) represents volume and measuring cups (de).",
 "qK": "전통적인 도량형 제도에서 '형(衡)'은 부피와 되를 의미한다.",
 "o": [
 "True 참",
 "False 거짓"
 ],
 "a": 1,
-"eE": "In Doryanghyeong (度量衡), "Hyeong" (衡) represents physical weight/mass ("Do" = length, "Ryang" = volume, "Hyeong" = weight).",
+"eE": "In Doryanghyeong (度量衡), 'Hyeong' (衡) represents physical weight/mass ('Do' = length, 'Ryang' = volume, 'Hyeong' = weight).",
 "eK": "도량형(度量衡)에서 '도(度)'는 길이, '량(量)'은 부피, '형(衡)'은 무게(질량)를 의미합니다."
+},
+{
+"qE": "In Doryanghyeong (度量衡), 'Do' (度) refers to length or a ruler used for measuring length.",
+"qK": "도량형(度量衡)에서 도(度)는 길이 또는 길이를 측정하기 위한 자이다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 0,
+"eE": "In Doryanghyeong, 'Do' represents length measurements.",
+"eK": "도량형에서 '도'는 길이를 측정하는 물리량이 맞습니다."
 }
 ],
 "Lesson 2": [
@@ -207,8 +218,8 @@
 "False 거짓"
 ],
 "a": 1,
-"eE": "When the average of measured values is close to the true value, Accuracy (정확도) is high. Precision refers to repeatability/clustering among values.",
-"eK": "측정값의 평균이 참값에 가까운 것은 '정확도(Accuracy)'가 높은 것입니다. 정밀도(Precision)는 측정값들 간의 모임/산포 정도를 의미합니다."
+"eE": "When the average of measured values is close to the true value, Accuracy (정확도) is high. Precision refers to repeatability/clustering.",
+"eK": "측정값의 평균이 참값에 가까운 것은 '정확도(Accuracy)'가 높은 것입니다. 정밀도는 모임/산포 정도입니다."
 }
 ],
 "Lesson 2": [
@@ -287,6 +298,17 @@
 "a": 0,
 "eE": "This is the standard ISO/IEC definition of Measurement Traceability (소급성).",
 "eK": "끊어지지 않는 교정의 사슬을 통해 국가표준/국제표준에 연결되는 측정 소급성(Traceability)의 정의입니다."
+},
+{
+"qE": "Calibration refers to a set of operations that establish a relationship between values indicated by a measuring instrument and corresponding values realized by measurement standards.",
+"qK": "교정(Calibration)이란 규정된 조건 하에서 측정기나 측정시스템에 의해 지시되는 값과 측정표준으로 실현된 해당 값 사이의 관계를 정하는 일련의 조작이다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 0,
+"eE": "This is the standard VIM/ISO definition for instrument calibration.",
+"eK": "표준 계측 교정(Calibration)의 정식 정의입니다."
 }
 ]
 },
