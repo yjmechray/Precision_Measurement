@@ -1,0 +1,92 @@
+{
+"Precision Measurement": {
+"Week 1": {
+"Lesson 1": [
+{
+"qE": "In the traditional Korean weights and measures system (Doryanghyeong), "Hyeong" (衡) represents volume and measuring cups (de).",
+"qK": "전통적인 도량형 제도에서 '형(衡)'은 부피와 되를 의미한다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 1,
+"eE": "In Doryanghyeong (度量衡), "Hyeong" (衡) represents physical weight/mass ("Do" = length, "Ryang" = volume, "Hyeong" = weight).",
+"eK": "도량형(度量衡)에서 '도(度)'는 길이, '량(量)'은 부피, '형(衡)'은 무게(질량)를 의미합니다."
+}
+],
+"Lesson 2": [
+{
+"qE": "The act of obtaining the magnitude of a physical quantity and expressing a product's dimensions numerically using a specified unit is called inspection.",
+"qK": "물리량의 크기를 구하고 지정된 단위를 사용하여 제품의 치수를 숫자로 나타내는 행위를 검사라고 한다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 1,
+"eE": "This process is called Measurement (측정). Inspection involves determining pass/fail compliance against standard product specifications.",
+"eK": "제품의 치수를 숫자로 나타내는 행위는 '측정'입니다. 검사는 합격/불합격 여부를 판정하는 행위입니다."
+}
+]
+},
+"Week 4": {
+"Lesson 1": [
+{
+"qE": "Error is represented as Error = True Value - Measured Value.",
+"qK": "오차는 오차 = 참값 - 측정값 으로 나타낸다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 1,
+"eE": "Measurement Error = Measured Value - True Value (or Measured Value = True Value + Error).",
+"eK": "측정오차 = 측정값 - 참값 입니다 (측정값 = 참값 + 오차)."
+}
+]
+},
+"Week 5": {
+"Lesson 1": [
+{
+"qE": "Precision is high when the average of measured values is close to the true value.",
+"qK": "측정값들의 평균이 참값에 가까울 때 정밀도가 높다고 한다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 1,
+"eE": "When the average of measured values is close to the true value, Accuracy (정확도) is high. Precision refers to repeatability/clustering among values.",
+"eK": "측정값의 평균이 참값에 가까운 것은 '정확도(Accuracy)'가 높은 것입니다. 정밀도(Precision)는 측정값들 간의 모임/산포 정도를 의미합니다."
+}
+]
+},
+"Week 6": {
+"Lesson 1": [
+{
+"qE": "Measurement uncertainty refers to the estimated range within which the measurement error value is expected to lie.",
+"qK": "측정불확도는 측정 오차값이 존재할 것으로 추정되는 범위를 의미한다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 1,
+"eE": "Measurement uncertainty is the estimated parameter surrounding the measurement result within which the True Value (참값) is expected to lie.",
+"eK": "측정불확도는 측정 결과에 부속되어 '참값'이 존재할 수 있는 범위를 나타내는 파라미터입니다."
+}
+]
+},
+"Week 7": {
+"Lesson 1": [
+{
+"qE": "The method of obtaining a measurement value by causing displacement in an instrument's pointer due to the action of the workpiece and comparing it with a scale is called the zero/null method.",
+"qK": "측정물의 작용으로 지침을 변위시키고 이를 눈금과 비교하여 측정값을 얻는 방식을 영위법이라 한다.",
+"o": [
+"True 참",
+"False 거짓"
+],
+"a": 1,
+"eE": "This method is called the Deflection Method (편위법). The zero/null method balances physical forces until the indicator reads zero.",
+"eK": "지침의 변위를 직접 읽는 방식은 '편위법'입니다. 영위법은 평형을 이루어 0이 되도록 만드는 방식입니다."
+}
+]
+}
+}
+}
